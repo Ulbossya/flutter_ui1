@@ -1,0 +1,36 @@
+name: flutter_cubit_1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - img/welcome-one.png
+    - img/welcome-two.png
+    - img/welcome-three.png
+    - img/snorkling.png
+    - img/mountain.jpeg
+    - img/Me.jpeg
+    - img/kayaking.png
+    - img/hiking.png
+    - img/button-one.png
+    - img/balloning.png
+
+
